@@ -73,6 +73,7 @@ input:focus, textarea:focus, select:focus{
     outline: none;
 }
 
+
 .form-control {
     border: 0;
 }
@@ -102,4 +103,22 @@ footer{
     position: absolute;
     bottom: 0;
     left: 0;
+}
+
+a{
+	color: #70758C;
+	text-decoration-line: none;
+}
+
+a:hover{
+	color: #70758C;
+	text-decoration-line: underline;
+}
+
+a-idiom{
+	color: #61ABEA;
+}
+
+a-idiom:hover{
+	color: #61ABEA;
 }
